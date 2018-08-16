@@ -1,8 +1,7 @@
 # docker-laravel
 
 add folder 
-  provisioning
+  [provisioning]
   
  add file 
-  Dockerfile
-  nginx.conf
+  [Dockerfile, nginx.conf]
